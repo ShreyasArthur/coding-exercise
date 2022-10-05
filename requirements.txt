@@ -1,0 +1,6 @@
+djangorestframework==3.13.1
+django==3.2
+django-filter==22.1
+django-bulk-update-or-create==0.3.0
+pandas==1.5.0
+pylint==2.15.3

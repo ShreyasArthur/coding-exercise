@@ -1,0 +1,12 @@
+*.py[cod]
+venv/
+.~*
+.idea/
+.vim/
+.vscode/
+.mypy_cache/
+django/
+*.pyc
+/__pycache__
+/__pycache__/*.pyc
+*.sqlite3
